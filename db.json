@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "Kratoz",
+      "email": "Kratoz@psr",
+      "password": "1234",
+      "id": "ae2f"
+    },
+    {
+      "id": "e50d",
+      "username": "admin",
+      "email": "admin@psr",
+      "password": "1234"
+    }
+  ],
+  "students": [
+    
+  ]
+}
